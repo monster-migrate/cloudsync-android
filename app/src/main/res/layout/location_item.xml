@@ -1,0 +1,9 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/location_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:fontFamily="@font/roboto_mono_semibold"
+    android:letterSpacing="-0.03"
+    android:textColor="@color/white"
+    android:textSize="18sp" />

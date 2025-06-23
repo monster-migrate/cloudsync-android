@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CloudSync</string>
+    <string name="logo_content_desc">Logo</string>
+    <string name="brand_name">CloudSync.</string>
+    <string name="search_box_placeholder">Search .</string>
+    <string name="search_logo_content_desc">search logo</string>
+    <string name="weather_icon_desc">Icon representing the current weather</string>
+</resources>

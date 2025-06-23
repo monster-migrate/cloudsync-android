@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blush">#FFDB5375</color>
+    <color name="moonstone">#FF729EA1</color>
+    <color name="pale_azure">#FF6CD4FF</color>
+    <color name="coral_pink">#FFFE938C</color>
+    <color name="wenge">#FF5D576B</color>
+    <color  name="wine">#FF652939</color>
+</resources>
