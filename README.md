@@ -26,11 +26,11 @@ CloudSync is an Android-based weather prediction app that uses ensemble modeling
    git clone https://github.com/your-username/cloudsync-android.git
    ```
 2. Open project on Android Studio
-3. Add environment variables(note that these variables are publicly available and Open Meteo does not require an API Key):
-   WEATHER_API_BASE_URL=https://api.open-meteo.com/v1/
-   LOCATION_API_BASE_URL=https://geocoding-api.open-meteo.com/v1/
-   AIRQUALITY_API_BASE_URL=https://air-quality-api.open-meteo.com/v1/air-quality/
-   WEATHER_API_TIMEOUT=5000
+3. Add environment variables(note that these variables are publicly available and Open Meteo does not require an API Key):  
+   WEATHER_API_BASE_URL=https://api.open-meteo.com/v1/  
+   LOCATION_API_BASE_URL=https://geocoding-api.open-meteo.com/v1/  
+   AIRQUALITY_API_BASE_URL=https://air-quality-api.open-meteo.com/v1/air-quality/  
+   WEATHER_API_TIMEOUT=5000  
 4. Launch the app.
 
  -- OR --  
